@@ -4,6 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Amplitud Msg.lvclass" Type="LVClass" URL="../../Generador funciones ACQ Messages/Amplitud Msg/Amplitud Msg.lvclass"/>
+		<Item Name="Frecuencia Msg.lvclass" Type="LVClass" URL="../../Generador funciones ACQ Messages/Frecuencia Msg/Frecuencia Msg.lvclass"/>
+		<Item Name="StartStop Msg.lvclass" Type="LVClass" URL="../../Generador funciones ACQ Messages/StartStop Msg/StartStop Msg.lvclass"/>
+		<Item Name="Tipo de señal Msg.lvclass" Type="LVClass" URL="../../Generador funciones ACQ Messages/Tipo de señal Msg/Tipo de señal Msg.lvclass"/>
+	</Item>
 	<Item Name="Generador funciones ACQ.lvclass" Type="LVClass" URL="../Generador funciones ACQ.lvclass"/>
 </Library>
