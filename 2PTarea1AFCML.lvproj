@@ -12,11 +12,13 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Counter ACQ.lvlib" Type="Library" URL="../Counter ACQ/Counter ACQ.lvlib"/>
 		<Item Name="Counter.lvlib" Type="Library" URL="../Counter/Counter.lvlib"/>
+		<Item Name="Generador funciones ACQ.lvlib" Type="Library" URL="../Generador funciones ACQ/Generador funciones ACQ.lvlib"/>
 		<Item Name="Generador funciones.lvlib" Type="Library" URL="../Generador funciones/Generador funciones.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
