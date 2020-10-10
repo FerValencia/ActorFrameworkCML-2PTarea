@@ -15,6 +15,7 @@
 		<Item Name="Generador funciones ACQ.lvlib" Type="Library" URL="../Generador funciones ACQ/Generador funciones ACQ.lvlib"/>
 		<Item Name="Generador funciones.lvlib" Type="Library" URL="../Generador funciones/Generador funciones.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
+		<Item Name="Save tdms.lvlib" Type="Library" URL="../Save tdms/Save tdms.lvlib"/>
 		<Item Name="Save txt.lvlib" Type="Library" URL="../Save txt/Save txt.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

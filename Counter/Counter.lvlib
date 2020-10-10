@@ -5,9 +5,12 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Formato Msg.lvclass" Type="LVClass" URL="../../Counter Messages/Formato Msg/Formato Msg.lvclass"/>
 		<Item Name="Leds Msg.lvclass" Type="LVClass" URL="../../Counter Messages/Leds Msg/Leds Msg.lvclass"/>
 		<Item Name="Maximo Msg.lvclass" Type="LVClass" URL="../../Counter Messages/Maximo Msg/Maximo Msg.lvclass"/>
 		<Item Name="Minimo Msg.lvclass" Type="LVClass" URL="../../Counter Messages/Minimo Msg/Minimo Msg.lvclass"/>
+		<Item Name="Path Msg.lvclass" Type="LVClass" URL="../../Counter Messages/Path Msg/Path Msg.lvclass"/>
+		<Item Name="Save txt Msg.lvclass" Type="LVClass" URL="../../Counter Messages/Save txt Msg/Save txt Msg.lvclass"/>
 		<Item Name="StartStop Msg.lvclass" Type="LVClass" URL="../../Counter Messages/StartStop Msg/StartStop Msg.lvclass"/>
 	</Item>
 	<Item Name="Counter.lvclass" Type="LVClass" URL="../Counter.lvclass"/>

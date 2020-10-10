@@ -4,6 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Data counter Msg.lvclass" Type="LVClass" URL="../../Save txt Messages/Data counter Msg/Data counter Msg.lvclass"/>
+		<Item Name="Formato Msg.lvclass" Type="LVClass" URL="../../Save txt Messages/Formato Msg/Formato Msg.lvclass"/>
+		<Item Name="Path Msg.lvclass" Type="LVClass" URL="../../Save txt Messages/Path Msg/Path Msg.lvclass"/>
+		<Item Name="Save Msg.lvclass" Type="LVClass" URL="../../Save txt Messages/Save Msg/Save Msg.lvclass"/>
+	</Item>
 	<Item Name="Save txt.lvclass" Type="LVClass" URL="../Save txt.lvclass"/>
 </Library>
